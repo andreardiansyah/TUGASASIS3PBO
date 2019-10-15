@@ -24,7 +24,7 @@ Scanner masuk = new Scanner(System.in);
     
     System.out.println("Masukkan Bahan Bakar Kendaraan\t\t =");
     float bahanBakar = masuk.nextFloat();
-    double a = 13.42134;
+    
     
     System.out.println("Masukkan ID Kendaraan\t\t\t =");
     int id = masuk.nextInt();
